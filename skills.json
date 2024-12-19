@@ -1,22 +1,22 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Verilog",
+        "icon": "https://img.icon8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
     },
     {
-        "name": "ExpressJS",
+        "name": "VHDL",
         "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
     },
     {
-        "name": "NodeJS",
+        "name": "STA",
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
-        "name": "Redux",
+        "name": "C",
         "icon": "https://img.icons8.com/color/48/000000/redux.png"
     },
     {
-        "name": "Firebase",
+        "name": "Bash",
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
     {
@@ -40,11 +40,11 @@
         "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
     },
     {
-        "name": "Sass",
+        "name": "TCL",
         "icon": "https://img.icons8.com/color/48/000000/sass.png"
     },
     {
-        "name": "HTML5",
+        "name": "Latex",
         "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
     },
     {
@@ -94,18 +94,6 @@
     {
         "name": "Heroku",
         "icon": "https://img.icons8.com/color/48/000000/heroku.png"
-    },
-    {
-        "name": "Netlify",
-        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
-    },
-    {
-        "name": "DigitalOcean",
-        "icon": "https://img.icons8.com/ios-filled/48/0080FF/digitalocean.png"
-    },
-    {
-        "name": "jQuery",
-        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
     },
     {
         "name": "Git VCS",
